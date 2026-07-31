@@ -1,0 +1,27 @@
+Full Meaning of IDE
+IDE = Integrated Development Environment
+
+It is a software suite that provides developers with everything they need to write, test, and debug code in one place.
+
+Core features include:
+
+Code editor with syntax highlighting and auto-completion
+
+Compiler/Interpreter to translate code into machine language
+
+Debugger to identify and fix errors
+
+Version control integration (e.g., Git)
+
+Terminal/console for running commands directly
+
+7 Examples of IDEs
+
+IDE Name	   Primary Use	                       Supported Languages
+Visual Studio	 Microsoft’s flagship IDE	       C#, C++, Python, JavaScript, etc.
+Eclipse	        Widely used for Java development       Java, C++, PHP, Python
+IntelliJ IDEA	Popular for enterprise Java	       Java, Kotlin, Groovy, Scala
+PyCharm	        Specialized for Python	               Python, Django,    Flask
+NetBeans	Open-source IDE	                       Java, PHP, HTML5, C++
+Xcode	        Apple’s IDE for macOS/iOS apps	       Swift, Objective-C
+Android Studio	Official IDE for Android apps	       Java, Kotlin
